@@ -1,0 +1,3 @@
+﻿  Quelle.cpp
+C:\Users\Florian.Fabian\source\repos\Project2\Project2\Quelle.cpp(6,1): warning C4326: Der Rückgabetyp von "main" sollte "int" und nicht "void" sein
+  Project2.vcxproj -> C:\Users\Florian.Fabian\source\repos\Project2\Debug\Project2.exe

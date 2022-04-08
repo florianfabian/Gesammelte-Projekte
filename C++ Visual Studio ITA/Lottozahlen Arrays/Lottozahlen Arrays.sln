@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lottozahlen Arrays", "Lottozahlen Arrays\Lottozahlen Arrays.vcxproj", "{5665CB5F-C9AB-4446-9E44-C8631970BEE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5665CB5F-C9AB-4446-9E44-C8631970BEE5}.Debug|x64.ActiveCfg = Debug|x64
+		{5665CB5F-C9AB-4446-9E44-C8631970BEE5}.Debug|x64.Build.0 = Debug|x64
+		{5665CB5F-C9AB-4446-9E44-C8631970BEE5}.Debug|x86.ActiveCfg = Debug|Win32
+		{5665CB5F-C9AB-4446-9E44-C8631970BEE5}.Debug|x86.Build.0 = Debug|Win32
+		{5665CB5F-C9AB-4446-9E44-C8631970BEE5}.Release|x64.ActiveCfg = Release|x64
+		{5665CB5F-C9AB-4446-9E44-C8631970BEE5}.Release|x64.Build.0 = Release|x64
+		{5665CB5F-C9AB-4446-9E44-C8631970BEE5}.Release|x86.ActiveCfg = Release|Win32
+		{5665CB5F-C9AB-4446-9E44-C8631970BEE5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA47FCF5-2B56-4083-872C-2D4B4CFD3F9A}
+	EndGlobalSection
+EndGlobal
