@@ -1,0 +1,7 @@
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung13_Absolutwert\Uebung13_Absolutwert\bin\Debug\Uebung13_Absolutwert.exe.config
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung13_Absolutwert\Uebung13_Absolutwert\bin\Debug\Uebung13_Absolutwert.exe
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung13_Absolutwert\Uebung13_Absolutwert\bin\Debug\Uebung13_Absolutwert.pdb
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung13_Absolutwert\Uebung13_Absolutwert\obj\Debug\Uebung13_Absolutwert.csproj.AssemblyReference.cache
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung13_Absolutwert\Uebung13_Absolutwert\obj\Debug\Uebung13_Absolutwert.csproj.CoreCompileInputs.cache
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung13_Absolutwert\Uebung13_Absolutwert\obj\Debug\Uebung13_Absolutwert.exe
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung13_Absolutwert\Uebung13_Absolutwert\obj\Debug\Uebung13_Absolutwert.pdb

@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Übung021_Schleifen\Übung021_Schleifen\bin\Debug\Übung021_Schleifen.exe.config
+H:\Desktop\C# Projekte\Übung021_Schleifen\Übung021_Schleifen\bin\Debug\Übung021_Schleifen.exe
+H:\Desktop\C# Projekte\Übung021_Schleifen\Übung021_Schleifen\bin\Debug\Übung021_Schleifen.pdb
+H:\Desktop\C# Projekte\Übung021_Schleifen\Übung021_Schleifen\obj\Debug\Übung021_Schleifen.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Übung021_Schleifen\Übung021_Schleifen\obj\Debug\Übung021_Schleifen.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Übung021_Schleifen\Übung021_Schleifen\obj\Debug\Übung021_Schleifen.exe
+H:\Desktop\C# Projekte\Übung021_Schleifen\Übung021_Schleifen\obj\Debug\Übung021_Schleifen.pdb

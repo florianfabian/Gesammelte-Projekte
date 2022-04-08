@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uebung17_Sortieren dreier Zahlen", "Uebung17_Sortieren dreier Zahlen\Uebung17_Sortieren dreier Zahlen.csproj", "{EC5CA4B0-286A-4D99-ABE1-CD2F26E8AD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC5CA4B0-286A-4D99-ABE1-CD2F26E8AD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5CA4B0-286A-4D99-ABE1-CD2F26E8AD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5CA4B0-286A-4D99-ABE1-CD2F26E8AD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5CA4B0-286A-4D99-ABE1-CD2F26E8AD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF52758-8FB6-4EFB-9058-C0BA4AFB6F93}
+	EndGlobalSection
+EndGlobal

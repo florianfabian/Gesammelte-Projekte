@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Übung16_Rabattstaffel\Übung16_Rabattstaffel\bin\Debug\Übung16_Rabattstaffel.exe.config
+H:\Desktop\C# Projekte\Übung16_Rabattstaffel\Übung16_Rabattstaffel\bin\Debug\Übung16_Rabattstaffel.exe
+H:\Desktop\C# Projekte\Übung16_Rabattstaffel\Übung16_Rabattstaffel\bin\Debug\Übung16_Rabattstaffel.pdb
+H:\Desktop\C# Projekte\Übung16_Rabattstaffel\Übung16_Rabattstaffel\obj\Debug\Übung16_Rabattstaffel.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Übung16_Rabattstaffel\Übung16_Rabattstaffel\obj\Debug\Übung16_Rabattstaffel.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Übung16_Rabattstaffel\Übung16_Rabattstaffel\obj\Debug\Übung16_Rabattstaffel.exe
+H:\Desktop\C# Projekte\Übung16_Rabattstaffel\Übung16_Rabattstaffel\obj\Debug\Übung16_Rabattstaffel.pdb

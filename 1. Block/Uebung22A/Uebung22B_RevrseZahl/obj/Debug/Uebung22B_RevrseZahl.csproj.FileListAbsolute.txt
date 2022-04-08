@@ -1,0 +1,6 @@
+H:\Desktop\C# Projekte\Uebung22A\Uebung22B_RevrseZahl\bin\Debug\Uebung22B_RevrseZahl.exe.config
+H:\Desktop\C# Projekte\Uebung22A\Uebung22B_RevrseZahl\bin\Debug\Uebung22B_RevrseZahl.exe
+H:\Desktop\C# Projekte\Uebung22A\Uebung22B_RevrseZahl\bin\Debug\Uebung22B_RevrseZahl.pdb
+H:\Desktop\C# Projekte\Uebung22A\Uebung22B_RevrseZahl\obj\Debug\Uebung22B_RevrseZahl.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Uebung22A\Uebung22B_RevrseZahl\obj\Debug\Uebung22B_RevrseZahl.exe
+H:\Desktop\C# Projekte\Uebung22A\Uebung22B_RevrseZahl\obj\Debug\Uebung22B_RevrseZahl.pdb

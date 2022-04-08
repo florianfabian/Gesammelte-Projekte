@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Übung17 - Quadratische Gleichung\Übung17 - Quadratische Gleichung\bin\Debug\Übung17 - Quadratische Gleichung.exe.config
+H:\Desktop\C# Projekte\Übung17 - Quadratische Gleichung\Übung17 - Quadratische Gleichung\bin\Debug\Übung17 - Quadratische Gleichung.exe
+H:\Desktop\C# Projekte\Übung17 - Quadratische Gleichung\Übung17 - Quadratische Gleichung\bin\Debug\Übung17 - Quadratische Gleichung.pdb
+H:\Desktop\C# Projekte\Übung17 - Quadratische Gleichung\Übung17 - Quadratische Gleichung\obj\Debug\Übung17 - Quadratische Gleichung.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Übung17 - Quadratische Gleichung\Übung17 - Quadratische Gleichung\obj\Debug\Übung17 - Quadratische Gleichung.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Übung17 - Quadratische Gleichung\Übung17 - Quadratische Gleichung\obj\Debug\Übung17 - Quadratische Gleichung.exe
+H:\Desktop\C# Projekte\Übung17 - Quadratische Gleichung\Übung17 - Quadratische Gleichung\obj\Debug\Übung17 - Quadratische Gleichung.pdb

@@ -1,0 +1,7 @@
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung05.11.21 Float Double Decimal\Übung05.11.21 Float Double Decimal\bin\Debug\Übung05.11.21 Float Double Decimal.exe.config
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung05.11.21 Float Double Decimal\Übung05.11.21 Float Double Decimal\bin\Debug\Übung05.11.21 Float Double Decimal.exe
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung05.11.21 Float Double Decimal\Übung05.11.21 Float Double Decimal\bin\Debug\Übung05.11.21 Float Double Decimal.pdb
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung05.11.21 Float Double Decimal\Übung05.11.21 Float Double Decimal\obj\Debug\Übung05.11.21 Float Double Decimal.csproj.AssemblyReference.cache
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung05.11.21 Float Double Decimal\Übung05.11.21 Float Double Decimal\obj\Debug\Übung05.11.21 Float Double Decimal.csproj.CoreCompileInputs.cache
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung05.11.21 Float Double Decimal\Übung05.11.21 Float Double Decimal\obj\Debug\Übung05.11.21 Float Double Decimal.exe
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung05.11.21 Float Double Decimal\Übung05.11.21 Float Double Decimal\obj\Debug\Übung05.11.21 Float Double Decimal.pdb

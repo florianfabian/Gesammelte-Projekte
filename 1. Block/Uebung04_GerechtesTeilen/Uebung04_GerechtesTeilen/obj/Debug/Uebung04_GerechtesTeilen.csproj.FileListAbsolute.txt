@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Uebung04_GerechtesTeilen\Uebung04_GerechtesTeilen\bin\Debug\Uebung04_GerechtesTeilen.exe.config
+H:\Desktop\C# Projekte\Uebung04_GerechtesTeilen\Uebung04_GerechtesTeilen\bin\Debug\Uebung04_GerechtesTeilen.exe
+H:\Desktop\C# Projekte\Uebung04_GerechtesTeilen\Uebung04_GerechtesTeilen\bin\Debug\Uebung04_GerechtesTeilen.pdb
+H:\Desktop\C# Projekte\Uebung04_GerechtesTeilen\Uebung04_GerechtesTeilen\obj\Debug\Uebung04_GerechtesTeilen.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Uebung04_GerechtesTeilen\Uebung04_GerechtesTeilen\obj\Debug\Uebung04_GerechtesTeilen.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Uebung04_GerechtesTeilen\Uebung04_GerechtesTeilen\obj\Debug\Uebung04_GerechtesTeilen.exe
+H:\Desktop\C# Projekte\Uebung04_GerechtesTeilen\Uebung04_GerechtesTeilen\obj\Debug\Uebung04_GerechtesTeilen.pdb

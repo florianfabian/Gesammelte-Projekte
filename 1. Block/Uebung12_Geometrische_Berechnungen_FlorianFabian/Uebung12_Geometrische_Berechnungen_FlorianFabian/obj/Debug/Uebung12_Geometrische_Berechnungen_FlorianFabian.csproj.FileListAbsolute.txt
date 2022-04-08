@@ -1,0 +1,7 @@
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung12_Geometrische_Berechnungen_FlorianFabian\Uebung12_Geometrische_Berechnungen_FlorianFabian\bin\Debug\Uebung12_Geometrische_Berechnungen_FlorianFabian.exe.config
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung12_Geometrische_Berechnungen_FlorianFabian\Uebung12_Geometrische_Berechnungen_FlorianFabian\bin\Debug\Uebung12_Geometrische_Berechnungen_FlorianFabian.exe
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung12_Geometrische_Berechnungen_FlorianFabian\Uebung12_Geometrische_Berechnungen_FlorianFabian\bin\Debug\Uebung12_Geometrische_Berechnungen_FlorianFabian.pdb
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung12_Geometrische_Berechnungen_FlorianFabian\Uebung12_Geometrische_Berechnungen_FlorianFabian\obj\Debug\Uebung12_Geometrische_Berechnungen_FlorianFabian.csproj.AssemblyReference.cache
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung12_Geometrische_Berechnungen_FlorianFabian\Uebung12_Geometrische_Berechnungen_FlorianFabian\obj\Debug\Uebung12_Geometrische_Berechnungen_FlorianFabian.csproj.CoreCompileInputs.cache
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung12_Geometrische_Berechnungen_FlorianFabian\Uebung12_Geometrische_Berechnungen_FlorianFabian\obj\Debug\Uebung12_Geometrische_Berechnungen_FlorianFabian.exe
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Uebung12_Geometrische_Berechnungen_FlorianFabian\Uebung12_Geometrische_Berechnungen_FlorianFabian\obj\Debug\Uebung12_Geometrische_Berechnungen_FlorianFabian.pdb

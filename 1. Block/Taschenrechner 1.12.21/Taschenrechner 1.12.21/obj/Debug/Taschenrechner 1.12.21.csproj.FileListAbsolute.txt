@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Taschenrechner 1.12.21\Taschenrechner 1.12.21\bin\Debug\Taschenrechner 1.12.21.exe.config
+H:\Desktop\C# Projekte\Taschenrechner 1.12.21\Taschenrechner 1.12.21\bin\Debug\Taschenrechner 1.12.21.exe
+H:\Desktop\C# Projekte\Taschenrechner 1.12.21\Taschenrechner 1.12.21\bin\Debug\Taschenrechner 1.12.21.pdb
+H:\Desktop\C# Projekte\Taschenrechner 1.12.21\Taschenrechner 1.12.21\obj\Debug\Taschenrechner 1.12.21.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Taschenrechner 1.12.21\Taschenrechner 1.12.21\obj\Debug\Taschenrechner 1.12.21.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Taschenrechner 1.12.21\Taschenrechner 1.12.21\obj\Debug\Taschenrechner 1.12.21.exe
+H:\Desktop\C# Projekte\Taschenrechner 1.12.21\Taschenrechner 1.12.21\obj\Debug\Taschenrechner 1.12.21.pdb

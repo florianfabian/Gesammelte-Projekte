@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Uebung22A\Uebung22A_Quersumme\bin\Debug\Uebung22A_Quersumme.exe.config
+H:\Desktop\C# Projekte\Uebung22A\Uebung22A_Quersumme\bin\Debug\Uebung22A_Quersumme.exe
+H:\Desktop\C# Projekte\Uebung22A\Uebung22A_Quersumme\bin\Debug\Uebung22A_Quersumme.pdb
+H:\Desktop\C# Projekte\Uebung22A\Uebung22A_Quersumme\obj\Debug\Uebung22A_Quersumme.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Uebung22A\Uebung22A_Quersumme\obj\Debug\Uebung22A_Quersumme.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Uebung22A\Uebung22A_Quersumme\obj\Debug\Uebung22A_Quersumme.exe
+H:\Desktop\C# Projekte\Uebung22A\Uebung22A_Quersumme\obj\Debug\Uebung22A_Quersumme.pdb

@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Uebung03_BerechnungenQuader\Uebung03_BerechnungenQuader\bin\Debug\Uebung03_BerechnungenQuader.exe.config
+H:\Desktop\C# Projekte\Uebung03_BerechnungenQuader\Uebung03_BerechnungenQuader\bin\Debug\Uebung03_BerechnungenQuader.exe
+H:\Desktop\C# Projekte\Uebung03_BerechnungenQuader\Uebung03_BerechnungenQuader\bin\Debug\Uebung03_BerechnungenQuader.pdb
+H:\Desktop\C# Projekte\Uebung03_BerechnungenQuader\Uebung03_BerechnungenQuader\obj\Debug\Uebung03_BerechnungenQuader.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Uebung03_BerechnungenQuader\Uebung03_BerechnungenQuader\obj\Debug\Uebung03_BerechnungenQuader.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Uebung03_BerechnungenQuader\Uebung03_BerechnungenQuader\obj\Debug\Uebung03_BerechnungenQuader.exe
+H:\Desktop\C# Projekte\Uebung03_BerechnungenQuader\Uebung03_BerechnungenQuader\obj\Debug\Uebung03_BerechnungenQuader.pdb

@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Hausratversicherung 01.12.21\Hausratversicherung 01.12.21\bin\Debug\Hausratversicherung 01.12.21.exe.config
+H:\Desktop\C# Projekte\Hausratversicherung 01.12.21\Hausratversicherung 01.12.21\bin\Debug\Hausratversicherung 01.12.21.exe
+H:\Desktop\C# Projekte\Hausratversicherung 01.12.21\Hausratversicherung 01.12.21\bin\Debug\Hausratversicherung 01.12.21.pdb
+H:\Desktop\C# Projekte\Hausratversicherung 01.12.21\Hausratversicherung 01.12.21\obj\Debug\Hausratversicherung 01.12.21.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Hausratversicherung 01.12.21\Hausratversicherung 01.12.21\obj\Debug\Hausratversicherung 01.12.21.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Hausratversicherung 01.12.21\Hausratversicherung 01.12.21\obj\Debug\Hausratversicherung 01.12.21.exe
+H:\Desktop\C# Projekte\Hausratversicherung 01.12.21\Hausratversicherung 01.12.21\obj\Debug\Hausratversicherung 01.12.21.pdb

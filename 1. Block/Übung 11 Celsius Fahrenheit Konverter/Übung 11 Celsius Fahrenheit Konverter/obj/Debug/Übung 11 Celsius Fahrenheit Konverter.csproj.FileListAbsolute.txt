@@ -1,0 +1,7 @@
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung 11 Celsius Fahrenheit Konverter\Übung 11 Celsius Fahrenheit Konverter\bin\Debug\Übung 11 Celsius Fahrenheit Konverter.exe.config
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung 11 Celsius Fahrenheit Konverter\Übung 11 Celsius Fahrenheit Konverter\bin\Debug\Übung 11 Celsius Fahrenheit Konverter.exe
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung 11 Celsius Fahrenheit Konverter\Übung 11 Celsius Fahrenheit Konverter\bin\Debug\Übung 11 Celsius Fahrenheit Konverter.pdb
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung 11 Celsius Fahrenheit Konverter\Übung 11 Celsius Fahrenheit Konverter\obj\Debug\Übung 11 Celsius Fahrenheit Konverter.csproj.AssemblyReference.cache
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung 11 Celsius Fahrenheit Konverter\Übung 11 Celsius Fahrenheit Konverter\obj\Debug\Übung 11 Celsius Fahrenheit Konverter.csproj.CoreCompileInputs.cache
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung 11 Celsius Fahrenheit Konverter\Übung 11 Celsius Fahrenheit Konverter\obj\Debug\Übung 11 Celsius Fahrenheit Konverter.exe
+C:\Users\pbbfs21bfa\OneDrive - bib & FHDW\C# Projekte\Übung 11 Celsius Fahrenheit Konverter\Übung 11 Celsius Fahrenheit Konverter\obj\Debug\Übung 11 Celsius Fahrenheit Konverter.pdb

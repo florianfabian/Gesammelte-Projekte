@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Übung1\Übung1\bin\Debug\Übung1.exe.config
+H:\Desktop\C# Projekte\Übung1\Übung1\bin\Debug\Übung1.exe
+H:\Desktop\C# Projekte\Übung1\Übung1\bin\Debug\Übung1.pdb
+H:\Desktop\C# Projekte\Übung1\Übung1\obj\Debug\Übung1.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Übung1\Übung1\obj\Debug\Übung1.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Übung1\Übung1\obj\Debug\Übung1.exe
+H:\Desktop\C# Projekte\Übung1\Übung1\obj\Debug\Übung1.pdb

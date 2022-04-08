@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Übung20_SortierendreierZahlen\Übung20_SortierendreierZahlen\bin\Debug\Übung20_SortierendreierZahlen.exe.config
+H:\Desktop\C# Projekte\Übung20_SortierendreierZahlen\Übung20_SortierendreierZahlen\bin\Debug\Übung20_SortierendreierZahlen.exe
+H:\Desktop\C# Projekte\Übung20_SortierendreierZahlen\Übung20_SortierendreierZahlen\bin\Debug\Übung20_SortierendreierZahlen.pdb
+H:\Desktop\C# Projekte\Übung20_SortierendreierZahlen\Übung20_SortierendreierZahlen\obj\Debug\Übung20_SortierendreierZahlen.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Übung20_SortierendreierZahlen\Übung20_SortierendreierZahlen\obj\Debug\Übung20_SortierendreierZahlen.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Übung20_SortierendreierZahlen\Übung20_SortierendreierZahlen\obj\Debug\Übung20_SortierendreierZahlen.exe
+H:\Desktop\C# Projekte\Übung20_SortierendreierZahlen\Übung20_SortierendreierZahlen\obj\Debug\Übung20_SortierendreierZahlen.pdb

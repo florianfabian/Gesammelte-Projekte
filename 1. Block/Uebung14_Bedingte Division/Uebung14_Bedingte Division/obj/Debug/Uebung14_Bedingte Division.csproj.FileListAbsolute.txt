@@ -1,0 +1,7 @@
+H:\Desktop\C# Projekte\Uebung14_Bedingte Division\Uebung14_Bedingte Division\bin\Debug\Uebung14_Bedingte Division.exe.config
+H:\Desktop\C# Projekte\Uebung14_Bedingte Division\Uebung14_Bedingte Division\bin\Debug\Uebung14_Bedingte Division.exe
+H:\Desktop\C# Projekte\Uebung14_Bedingte Division\Uebung14_Bedingte Division\bin\Debug\Uebung14_Bedingte Division.pdb
+H:\Desktop\C# Projekte\Uebung14_Bedingte Division\Uebung14_Bedingte Division\obj\Debug\Uebung14_Bedingte Division.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Uebung14_Bedingte Division\Uebung14_Bedingte Division\obj\Debug\Uebung14_Bedingte Division.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Uebung14_Bedingte Division\Uebung14_Bedingte Division\obj\Debug\Uebung14_Bedingte Division.exe
+H:\Desktop\C# Projekte\Uebung14_Bedingte Division\Uebung14_Bedingte Division\obj\Debug\Uebung14_Bedingte Division.pdb

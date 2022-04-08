@@ -1,0 +1,14 @@
+H:\Desktop\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\bin\Debug\Uebung06_UmrechnungLaengen.exe.config
+H:\Desktop\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\bin\Debug\Uebung06_UmrechnungLaengen.exe
+H:\Desktop\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\bin\Debug\Uebung06_UmrechnungLaengen.pdb
+H:\Desktop\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\obj\Debug\Uebung06_UmrechnungLaengen.csproj.AssemblyReference.cache
+H:\Desktop\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\obj\Debug\Uebung06_UmrechnungLaengen.csproj.CoreCompileInputs.cache
+H:\Desktop\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\obj\Debug\Uebung06_UmrechnungLaengen.exe
+H:\Desktop\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\obj\Debug\Uebung06_UmrechnungLaengen.pdb
+C:\Users\Flo\OneDrive - bib & FHDW\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\bin\Debug\Uebung06_UmrechnungLaengen.exe.config
+C:\Users\Flo\OneDrive - bib & FHDW\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\bin\Debug\Uebung06_UmrechnungLaengen.exe
+C:\Users\Flo\OneDrive - bib & FHDW\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\bin\Debug\Uebung06_UmrechnungLaengen.pdb
+C:\Users\Flo\OneDrive - bib & FHDW\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\obj\Debug\Uebung06_UmrechnungLaengen.csproj.AssemblyReference.cache
+C:\Users\Flo\OneDrive - bib & FHDW\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\obj\Debug\Uebung06_UmrechnungLaengen.csproj.CoreCompileInputs.cache
+C:\Users\Flo\OneDrive - bib & FHDW\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\obj\Debug\Uebung06_UmrechnungLaengen.exe
+C:\Users\Flo\OneDrive - bib & FHDW\C# Projekte\Uebung06_UmrechnungLaengen\Uebung06_UmrechnungLaengen\obj\Debug\Uebung06_UmrechnungLaengen.pdb
