@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\Kleine Zahlentheorie\Kleine Zahlentheorie\bin\Debug\Kleine Zahlentheorie.exe.config
+C:\Users\fabflo\Desktop\C#\Kleine Zahlentheorie\Kleine Zahlentheorie\bin\Debug\Kleine Zahlentheorie.exe
+C:\Users\fabflo\Desktop\C#\Kleine Zahlentheorie\Kleine Zahlentheorie\bin\Debug\Kleine Zahlentheorie.pdb
+C:\Users\fabflo\Desktop\C#\Kleine Zahlentheorie\Kleine Zahlentheorie\obj\Debug\Kleine_Zahlentheorie.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\Kleine Zahlentheorie\Kleine Zahlentheorie\obj\Debug\Kleine_Zahlentheorie.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\Kleine Zahlentheorie\Kleine Zahlentheorie\obj\Debug\Kleine_Zahlentheorie.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\Kleine Zahlentheorie\Kleine Zahlentheorie\obj\Debug\Kleine Zahlentheorie.exe
+C:\Users\fabflo\Desktop\C#\Kleine Zahlentheorie\Kleine Zahlentheorie\obj\Debug\Kleine Zahlentheorie.pdb
