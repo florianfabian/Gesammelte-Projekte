@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\Primzahltest\Primzahltest\bin\Debug\Primzahltest.exe.config
+C:\Users\fabflo\Desktop\C#\Primzahltest\Primzahltest\bin\Debug\Primzahltest.exe
+C:\Users\fabflo\Desktop\C#\Primzahltest\Primzahltest\bin\Debug\Primzahltest.pdb
+C:\Users\fabflo\Desktop\C#\Primzahltest\Primzahltest\obj\Debug\Primzahltest.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\Primzahltest\Primzahltest\obj\Debug\Primzahltest.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\Primzahltest\Primzahltest\obj\Debug\Primzahltest.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\Primzahltest\Primzahltest\obj\Debug\Primzahltest.exe
+C:\Users\fabflo\Desktop\C#\Primzahltest\Primzahltest\obj\Debug\Primzahltest.pdb
