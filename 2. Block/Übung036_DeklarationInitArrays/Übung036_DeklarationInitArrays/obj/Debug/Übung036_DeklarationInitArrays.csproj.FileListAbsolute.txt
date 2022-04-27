@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\Übung036_DeklarationInitArrays\Übung036_DeklarationInitArrays\bin\Debug\Übung036_DeklarationInitArrays.exe.config
+C:\Users\fabflo\Desktop\C#\Übung036_DeklarationInitArrays\Übung036_DeklarationInitArrays\bin\Debug\Übung036_DeklarationInitArrays.exe
+C:\Users\fabflo\Desktop\C#\Übung036_DeklarationInitArrays\Übung036_DeklarationInitArrays\bin\Debug\Übung036_DeklarationInitArrays.pdb
+C:\Users\fabflo\Desktop\C#\Übung036_DeklarationInitArrays\Übung036_DeklarationInitArrays\obj\Debug\Übung036_DeklarationInitArrays.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\Übung036_DeklarationInitArrays\Übung036_DeklarationInitArrays\obj\Debug\Übung036_DeklarationInitArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\Übung036_DeklarationInitArrays\Übung036_DeklarationInitArrays\obj\Debug\Übung036_DeklarationInitArrays.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\Übung036_DeklarationInitArrays\Übung036_DeklarationInitArrays\obj\Debug\Übung036_DeklarationInitArrays.exe
+C:\Users\fabflo\Desktop\C#\Übung036_DeklarationInitArrays\Übung036_DeklarationInitArrays\obj\Debug\Übung036_DeklarationInitArrays.pdb
