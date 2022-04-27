@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung037_SucheImArray\Uebung037_SucheImArray\bin\Debug\Uebung037_SucheImArray.exe.config
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung037_SucheImArray\Uebung037_SucheImArray\bin\Debug\Uebung037_SucheImArray.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung037_SucheImArray\Uebung037_SucheImArray\bin\Debug\Uebung037_SucheImArray.pdb
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung037_SucheImArray\Uebung037_SucheImArray\obj\Debug\Uebung037_SucheImArray.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung037_SucheImArray\Uebung037_SucheImArray\obj\Debug\Uebung037_SucheImArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung037_SucheImArray\Uebung037_SucheImArray\obj\Debug\Uebung037_SucheImArray.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung037_SucheImArray\Uebung037_SucheImArray\obj\Debug\Uebung037_SucheImArray.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung037_SucheImArray\Uebung037_SucheImArray\obj\Debug\Uebung037_SucheImArray.pdb
