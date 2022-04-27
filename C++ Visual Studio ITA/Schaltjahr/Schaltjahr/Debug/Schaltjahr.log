@@ -1,0 +1,3 @@
+﻿  Schaltjahr.cpp
+C:\Users\Florian.Fabian\source\repos\Schaltjahr\Schaltjahr\Schaltjahr.cpp(61,8): warning C4804: "%": unsichere Verwendung des Typs "bool" in einer Operation
+  Schaltjahr.vcxproj -> C:\Users\Florian.Fabian\source\repos\Schaltjahr\Debug\Schaltjahr.exe

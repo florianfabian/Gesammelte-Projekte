@@ -1,0 +1,3 @@
+﻿  kreisumfang lokal.cpp
+C:\Users\Florian.Fabian\source\repos\kreisumfang lokal\kreisumfang lokal\kreisumfang lokal.cpp(27,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  kreisumfang lokal.vcxproj -> C:\Users\Florian.Fabian\source\repos\kreisumfang lokal\Debug\kreisumfang lokal.exe

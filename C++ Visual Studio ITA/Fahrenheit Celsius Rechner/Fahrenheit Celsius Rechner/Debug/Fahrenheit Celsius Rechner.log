@@ -1,0 +1,4 @@
+﻿  Fahrenheit Celsius Rechner.cpp
+C:\Users\Florian.Fabian\source\repos\Fahrenheit Celsius Rechner\Fahrenheit Celsius Rechner\Fahrenheit Celsius Rechner.cpp(45,34): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+C:\Users\Florian.Fabian\source\repos\Fahrenheit Celsius Rechner\Fahrenheit Celsius Rechner\Fahrenheit Celsius Rechner.cpp(52,33): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  Fahrenheit Celsius Rechner.vcxproj -> C:\Users\Florian.Fabian\source\repos\Fahrenheit Celsius Rechner\Debug\Fahrenheit Celsius Rechner.exe

@@ -1,0 +1,6 @@
+﻿  Passwort mit C-String.cpp
+C:\Users\Florian.Fabian\source\repos\Passwort mit C-String\Passwort mit C-String\Passwort mit C-String.cpp(55): warning C4715: "berechnung": Nicht alle Codepfade geben einen Wert zurück.
+Passwort mit C-String.obj : error LNK2019: Verweis auf nicht aufgel÷stes externes Symbol ""bool __cdecl berechnung(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?berechnung@@YA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)" in Funktion "_main".
+    Hinweis zu Symbolen, die definiert wurden und m÷glicherweise ³bereinstimmen:
+      "bool __cdecl berechnung(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > * const)" (?berechnung@@YA_NQAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+C:\Users\Florian.Fabian\source\repos\Passwort mit C-String\Debug\Passwort mit C-String.exe : fatal error LNK1120: 1 nicht aufgel÷ste Externe
