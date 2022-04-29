@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung038_Notenrechner\Uebung038_Notenrechner\bin\Debug\Uebung038_Notenrechner.exe.config
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung038_Notenrechner\Uebung038_Notenrechner\bin\Debug\Uebung038_Notenrechner.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung038_Notenrechner\Uebung038_Notenrechner\bin\Debug\Uebung038_Notenrechner.pdb
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung038_Notenrechner\Uebung038_Notenrechner\obj\Debug\Uebung038_Notenrechner.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung038_Notenrechner\Uebung038_Notenrechner\obj\Debug\Uebung038_Notenrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung038_Notenrechner\Uebung038_Notenrechner\obj\Debug\Uebung038_Notenrechner.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung038_Notenrechner\Uebung038_Notenrechner\obj\Debug\Uebung038_Notenrechner.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung038_Notenrechner\Uebung038_Notenrechner\obj\Debug\Uebung038_Notenrechner.pdb
