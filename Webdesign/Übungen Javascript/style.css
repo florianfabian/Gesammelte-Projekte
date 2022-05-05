@@ -1,0 +1,31 @@
+.htmlKonsole {
+    width: 700px;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}       /*Die Konsole wird designed*/
+body {
+    background-image: url("background.png");
+    background-size: cover;
+    font-family: sans-serif;
+}       /*Allgemeine Designeinstellungen für den Body*/
+.titel{
+    font-size: 30px;
+}       /*Die erste WritLine des Scripts (in script.js) wird designed*/
+b{
+    color: greenyellow;
+}       /*Alle bold tags werden designed*/
+.buttonk {
+    position: fixed;
+    top: 50px;
+    right: 50px;
+}       /*Der Konsolenbutton wird design (da nur dieser angefixt sein muss*/
+button {
+    width: 100px;
+    height: 75px;
+    background-color: rgb(0, 0, 0);
+    color: greenyellow;
+}       /*Alle buttons werden designed*/
