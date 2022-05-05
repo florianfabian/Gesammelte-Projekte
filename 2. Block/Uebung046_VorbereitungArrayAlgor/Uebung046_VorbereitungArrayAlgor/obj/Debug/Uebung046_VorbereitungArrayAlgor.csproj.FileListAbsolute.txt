@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung046_VorbereitungArrayAlgor\Uebung046_VorbereitungArrayAlgor\bin\Debug\Uebung046_VorbereitungArrayAlgor.exe.config
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung046_VorbereitungArrayAlgor\Uebung046_VorbereitungArrayAlgor\bin\Debug\Uebung046_VorbereitungArrayAlgor.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung046_VorbereitungArrayAlgor\Uebung046_VorbereitungArrayAlgor\bin\Debug\Uebung046_VorbereitungArrayAlgor.pdb
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung046_VorbereitungArrayAlgor\Uebung046_VorbereitungArrayAlgor\obj\Debug\Uebung046_VorbereitungArrayAlgor.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung046_VorbereitungArrayAlgor\Uebung046_VorbereitungArrayAlgor\obj\Debug\Uebung046_VorbereitungArrayAlgor.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung046_VorbereitungArrayAlgor\Uebung046_VorbereitungArrayAlgor\obj\Debug\Uebung046_VorbereitungArrayAlgor.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung046_VorbereitungArrayAlgor\Uebung046_VorbereitungArrayAlgor\obj\Debug\Uebung046_VorbereitungArrayAlgor.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung046_VorbereitungArrayAlgor\Uebung046_VorbereitungArrayAlgor\obj\Debug\Uebung046_VorbereitungArrayAlgor.pdb

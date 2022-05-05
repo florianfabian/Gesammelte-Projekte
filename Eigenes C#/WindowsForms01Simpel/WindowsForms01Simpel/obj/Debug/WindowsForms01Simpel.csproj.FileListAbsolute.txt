@@ -1,0 +1,11 @@
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\bin\Debug\WindowsForms01Simpel.exe.config
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\bin\Debug\WindowsForms01Simpel.exe
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\bin\Debug\WindowsForms01Simpel.pdb
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\obj\Debug\WindowsForms01Simpel.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\obj\Debug\WindowsForms01Simpel.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\obj\Debug\WindowsForms01Simpel.Form1.resources
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\obj\Debug\WindowsForms01Simpel.Properties.Resources.resources
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\obj\Debug\WindowsForms01Simpel.csproj.GenerateResource.cache
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\obj\Debug\WindowsForms01Simpel.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\obj\Debug\WindowsForms01Simpel.exe
+C:\Users\fabflo\Desktop\C#\github\Eigenes C#\WindowsForms01Simpel\WindowsForms01Simpel\obj\Debug\WindowsForms01Simpel.pdb

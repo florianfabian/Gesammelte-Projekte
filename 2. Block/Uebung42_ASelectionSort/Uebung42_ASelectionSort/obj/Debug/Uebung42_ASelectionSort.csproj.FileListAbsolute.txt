@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung42_ASelectionSort\Uebung42_ASelectionSort\obj\Debug\Uebung42_ASelectionSort.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung42_ASelectionSort\Uebung42_ASelectionSort\obj\Debug\Uebung42_ASelectionSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung42_ASelectionSort\Uebung42_ASelectionSort\obj\Debug\Uebung42_ASelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung42_ASelectionSort\Uebung42_ASelectionSort\bin\Debug\Uebung42_ASelectionSort.exe.config
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung42_ASelectionSort\Uebung42_ASelectionSort\bin\Debug\Uebung42_ASelectionSort.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung42_ASelectionSort\Uebung42_ASelectionSort\bin\Debug\Uebung42_ASelectionSort.pdb
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung42_ASelectionSort\Uebung42_ASelectionSort\obj\Debug\Uebung42_ASelectionSort.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung42_ASelectionSort\Uebung42_ASelectionSort\obj\Debug\Uebung42_ASelectionSort.pdb
