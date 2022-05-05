@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung039_Fahrtenbuch\Uebung039_Fahrtenbuch\bin\Debug\Uebung039_Fahrtenbuch.exe.config
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung039_Fahrtenbuch\Uebung039_Fahrtenbuch\bin\Debug\Uebung039_Fahrtenbuch.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung039_Fahrtenbuch\Uebung039_Fahrtenbuch\bin\Debug\Uebung039_Fahrtenbuch.pdb
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung039_Fahrtenbuch\Uebung039_Fahrtenbuch\obj\Debug\Uebung039_Fahrtenbuch.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung039_Fahrtenbuch\Uebung039_Fahrtenbuch\obj\Debug\Uebung039_Fahrtenbuch.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung039_Fahrtenbuch\Uebung039_Fahrtenbuch\obj\Debug\Uebung039_Fahrtenbuch.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung039_Fahrtenbuch\Uebung039_Fahrtenbuch\obj\Debug\Uebung039_Fahrtenbuch.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung039_Fahrtenbuch\Uebung039_Fahrtenbuch\obj\Debug\Uebung039_Fahrtenbuch.pdb

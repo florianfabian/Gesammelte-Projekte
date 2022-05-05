@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung041_KopierenUndVergleichen\Uebung041_KopierenUndVergleichen\obj\Debug\Uebung041_KopierenUndVergleichen.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung041_KopierenUndVergleichen\Uebung041_KopierenUndVergleichen\obj\Debug\Uebung041_KopierenUndVergleichen.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung041_KopierenUndVergleichen\Uebung041_KopierenUndVergleichen\obj\Debug\Uebung041_KopierenUndVergleichen.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung041_KopierenUndVergleichen\Uebung041_KopierenUndVergleichen\bin\Debug\Uebung041_KopierenUndVergleichen.exe.config
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung041_KopierenUndVergleichen\Uebung041_KopierenUndVergleichen\bin\Debug\Uebung041_KopierenUndVergleichen.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung041_KopierenUndVergleichen\Uebung041_KopierenUndVergleichen\bin\Debug\Uebung041_KopierenUndVergleichen.pdb
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung041_KopierenUndVergleichen\Uebung041_KopierenUndVergleichen\obj\Debug\Uebung041_KopierenUndVergleichen.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung041_KopierenUndVergleichen\Uebung041_KopierenUndVergleichen\obj\Debug\Uebung041_KopierenUndVergleichen.pdb
