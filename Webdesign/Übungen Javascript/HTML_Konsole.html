@@ -5,9 +5,25 @@
     </head>
 
     <body>
+        <!-- Übung 3 Edit: 
+        Zwei Überschriften + form input, roter Kasten-->
+        <div id="uebung3" class="uebung3">
+        <h1 id="bibbank">Die Bib-Bank</h1>
+        <h2 id="uebw">Überweisung</h2> 
+        <p class="uebwlimit" hidden="true">Überweisungslimit erreicht!</p>
+        <form>
+        <label for="fname">Bitte Geldbetrag eingeben:</label>
+        <input type="text" id="betragseingabe" name="betragseingabe">
+        </form>
+        <button id="ueberweisungsButton">Überweisung abschließen</button>
+        </div>
+        <!--Übung 3 Edit Ende-->
+
+
+
 
         <div id='konsole' class='htmlKonsole'></div>        <!-- Konsolen Element wird erstellt -->
-
+        
         <div class='buttonk'><button onclick='ZeigVersKonsole()'>Konsole</button></div><br>         <!--Mit Klick auf den Button wird Konsole versteckt/gezeigt durch Funktion in script.js -->
 
         <script src="script.js">        

@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung043_MagischesQuadrat\Uebung043_MagischesQuadrat\bin\Debug\Uebung043_MagischesQuadrat.exe.config
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung043_MagischesQuadrat\Uebung043_MagischesQuadrat\bin\Debug\Uebung043_MagischesQuadrat.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung043_MagischesQuadrat\Uebung043_MagischesQuadrat\bin\Debug\Uebung043_MagischesQuadrat.pdb
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung043_MagischesQuadrat\Uebung043_MagischesQuadrat\obj\Debug\Uebung043_MagischesQuadrat.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung043_MagischesQuadrat\Uebung043_MagischesQuadrat\obj\Debug\Uebung043_MagischesQuadrat.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung043_MagischesQuadrat\Uebung043_MagischesQuadrat\obj\Debug\Uebung043_MagischesQuadrat.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung043_MagischesQuadrat\Uebung043_MagischesQuadrat\obj\Debug\Uebung043_MagischesQuadrat.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung043_MagischesQuadrat\Uebung043_MagischesQuadrat\obj\Debug\Uebung043_MagischesQuadrat.pdb
