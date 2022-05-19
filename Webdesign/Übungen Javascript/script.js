@@ -4,7 +4,7 @@ writeLine("<br>");
 leseGeldBetrag("123123");
 writeLine("<br>");
 writeLine("<br>");
-entferneZiffernUndSonderzeichen("+-,.0123456789Hallo hat alles geklappt? Keine der angegebenen Sonderzeichen?");
+entferneZiffernUndSonderzeichen("+++++-,.0123456789Hallo hat alles geklappt? Keine der angegebenen Sonderzeichen?");
 writeLine("<br>");
 writeLine("<br>");
 dollarZuEuro("100");
@@ -37,10 +37,10 @@ function leseGeldBetrag(eingabeText){       //String wird zur Number umgewandelt
 }
 function entferneZiffernUndSonderzeichen(eingabeText){  //Ziffern und bestimmte Sonderzeichen werden entfernt
     let ausgabe = eingabeText;
-    ausgabe = ausgabe.replace("+"," ");
-    ausgabe = ausgabe.replace("-"," ");
-    ausgabe = ausgabe.replace(","," ");
-    ausgabe = ausgabe.replace("."," ");
+    ausgabe = ausgabe.replaceAll("+"," ");
+    ausgabe = ausgabe.replaceAll("-"," ");
+    ausgabe = ausgabe.replaceAll(","," ");
+    ausgabe = ausgabe.replaceAll("."," ");
     for(var i = 0; i < 10; i++)
     {
         ausgabe = ausgabe.replace(`${i}`," ");

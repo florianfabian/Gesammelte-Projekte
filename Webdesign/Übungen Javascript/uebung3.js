@@ -37,3 +37,43 @@ function fügeEventListenerZumOkButton() {
 //algo
 }
 */
+
+
+function leseGeldBetrag(eingabeText){       //String wird zur Number umgewandelt mit 2 Nachkommastellen
+    document.getElementById("konsole").innerHTML += Number.parseFloat(eingabeText).toFixed(2);
+}
+function leseGeldbetragInEuro(eingabeText)  //LeseGeldBetrag() wird verwendet und dann (falls euro) in Euro umgewandelt
+{
+    var betrag = leseGeldBetrag(eingabeText);
+    var euro = betrag.indexOf("$");
+    if(euro!=-1)
+    {
+        betrag = betrag.replace("$"," ");
+        betrag = betrag.trim(); 
+        betrag = parseFloat(betrag);
+        betrag *= 0.96; /*Wechselkurs vom 12.05.2022*/
+        betrag += " €. Betrag wurde umgewandelt";
+    }
+    else
+    {
+        betrag += " Betrag wurde nicht umgewandelt, ist Euro";
+    }
+    return Number.parseFloat(betrag).toFixed(2);
+}
+function fügeEventListenerZurBetragsEingabe()
+{
+    document.getElementById("ueberweisungsButton").addEventListener("click", 
+                    function changeOne(){
+                        let uebergabe = "";
+                        uebergabe += document.getElementById("betragseingabe").value;
+                        let money = leseGeldbetragInEuro(uebergabe);
+                        money = num.toString();
+                        money += "<br>"
+                        money += "Überweisung abgeschlossen";
+                        document.getElementById("konsole").innerHTML += money;
+                    });
+}
+function fügeEventListenerZumOkButton() 
+{
+
+}
