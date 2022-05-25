@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 /// Autor:      Florian Fabian
 /// Datum:      19.05.2022
 /// Funktion:   2D Array - Albrecht Dürer, magisches Quadrat
-///             !Unfinished
+///             !Unfinished, da falsch verstanden (es ging um die Summe der Zahlen)
 /// </summary>
 
 namespace Uebung043_MagischesQuadrat
@@ -37,7 +37,7 @@ namespace Uebung043_MagischesQuadrat
             Console.WriteLine("Summe Diagonale : " + summediagonale);
             int rechner = 0;
             int mittelwert = 0;
-            for (int i = 0; i < magischesquadrat.GetLength(0) + magischesquadrat.GetLength(1); i++)
+            for (int i = 0; i < magischesquadrat.GetLength(0); i++)
             {
                 rechner += magischesquadrat[i, i];
             }

@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung44_HitTheJackpot\Uebung44_HitTheJackpot\bin\Debug\Uebung44_HitTheJackpot.exe.config
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung44_HitTheJackpot\Uebung44_HitTheJackpot\bin\Debug\Uebung44_HitTheJackpot.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung44_HitTheJackpot\Uebung44_HitTheJackpot\bin\Debug\Uebung44_HitTheJackpot.pdb
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung44_HitTheJackpot\Uebung44_HitTheJackpot\obj\Debug\Uebung44_HitTheJackpot.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung44_HitTheJackpot\Uebung44_HitTheJackpot\obj\Debug\Uebung44_HitTheJackpot.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung44_HitTheJackpot\Uebung44_HitTheJackpot\obj\Debug\Uebung44_HitTheJackpot.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung44_HitTheJackpot\Uebung44_HitTheJackpot\obj\Debug\Uebung44_HitTheJackpot.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung44_HitTheJackpot\Uebung44_HitTheJackpot\obj\Debug\Uebung44_HitTheJackpot.pdb

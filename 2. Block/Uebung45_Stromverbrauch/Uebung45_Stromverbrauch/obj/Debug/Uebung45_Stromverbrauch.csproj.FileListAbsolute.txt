@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung45_Stromverbrauch\Uebung45_Stromverbrauch\bin\Debug\Uebung45_Stromverbrauch.exe.config
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung45_Stromverbrauch\Uebung45_Stromverbrauch\bin\Debug\Uebung45_Stromverbrauch.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung45_Stromverbrauch\Uebung45_Stromverbrauch\bin\Debug\Uebung45_Stromverbrauch.pdb
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung45_Stromverbrauch\Uebung45_Stromverbrauch\obj\Debug\Uebung45_Stromverbrauch.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung45_Stromverbrauch\Uebung45_Stromverbrauch\obj\Debug\Uebung45_Stromverbrauch.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung45_Stromverbrauch\Uebung45_Stromverbrauch\obj\Debug\Uebung45_Stromverbrauch.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung45_Stromverbrauch\Uebung45_Stromverbrauch\obj\Debug\Uebung45_Stromverbrauch.exe
+C:\Users\fabflo\Desktop\C#\github\2. Block\Uebung45_Stromverbrauch\Uebung45_Stromverbrauch\obj\Debug\Uebung45_Stromverbrauch.pdb
