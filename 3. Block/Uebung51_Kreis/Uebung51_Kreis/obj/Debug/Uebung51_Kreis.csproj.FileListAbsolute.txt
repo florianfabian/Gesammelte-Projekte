@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\bib\C#\Uebung51_Kreis\Uebung51_Kreis\bin\Debug\Uebung51_Kreis.exe.config
+C:\Users\fabflo\Desktop\bib\C#\Uebung51_Kreis\Uebung51_Kreis\bin\Debug\Uebung51_Kreis.exe
+C:\Users\fabflo\Desktop\bib\C#\Uebung51_Kreis\Uebung51_Kreis\bin\Debug\Uebung51_Kreis.pdb
+C:\Users\fabflo\Desktop\bib\C#\Uebung51_Kreis\Uebung51_Kreis\obj\Debug\Uebung51_Kreis.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\bib\C#\Uebung51_Kreis\Uebung51_Kreis\obj\Debug\Uebung51_Kreis.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\bib\C#\Uebung51_Kreis\Uebung51_Kreis\obj\Debug\Uebung51_Kreis.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\bib\C#\Uebung51_Kreis\Uebung51_Kreis\obj\Debug\Uebung51_Kreis.exe
+C:\Users\fabflo\Desktop\bib\C#\Uebung51_Kreis\Uebung51_Kreis\obj\Debug\Uebung51_Kreis.pdb

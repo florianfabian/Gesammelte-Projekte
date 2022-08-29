@@ -9,7 +9,8 @@ using System.Threading.Tasks;
 /// Datum:      22.08.22
 /// Funktion:   Luftballon objektorientiert darstellen
 /// Funktion:   Ergänzung Übung 51: Immobilie objektorientiert darstellen
-///
+/// Funktion:   Ergänzung 25.08.: Klasse Luftballon um Objektmethoden ergänzt
+/// Funktion:   Ergänzung 29.08.:Zugriffsmethoden Getter/Setter hinzugefügt
 
 namespace Übung50_KlasseLuftballon_FF
 {
@@ -19,6 +20,17 @@ namespace Übung50_KlasseLuftballon_FF
         {
             Luftballon lb1 = new Luftballon("rot", "rund", 1.2);
 
+            Console.WriteLine(lb1);
+
+            lb1.Verknoten();
+
+            lb1.Aufpusten(0.5);
+            Console.WriteLine(lb1);
+
+            lb1.Aufpusten(0.5);
+            Console.WriteLine(lb1);
+
+            lb1.Aufpusten(0.5);
             Console.WriteLine(lb1);
 
             Luftballon lb2 = new Luftballon("blau", "rund", 1.3);

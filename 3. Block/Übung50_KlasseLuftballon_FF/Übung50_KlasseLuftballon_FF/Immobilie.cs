@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 /// Autor:      Florian Fabian
 /// Datum:      22.08.22
 /// Funktion:   Klasse zur Konstruktion einer Immobilie
+/// Funktion:   Ergänzung 29.08.:Zugriffsmethoden Getter/Setter hinzugefügt
 ///
 
 namespace Übung50_KlasseLuftballon_FF
@@ -29,6 +30,56 @@ namespace Übung50_KlasseLuftballon_FF
             this.baujahr = baujahr;
             this.kaufpreis = kaufpreis;
             this.verkauft = verkauft;
+        }
+
+        public string GetBeschreibung()
+        {
+            return beschreibung;
+        }
+        public void SetBeschreibung(string BeschreibungVAR)
+        {
+            beschreibung=BeschreibungVAR;
+        }
+        public double GetWohnflaeche()
+        {
+            return wohnflaeche;
+        }
+        public void SetWohnflaeche(double WohnflaecheVAR)
+        {
+            wohnflaeche = WohnflaecheVAR;
+        }
+        public int GetAnzahlZimmer()
+        {
+            return anzahlZimmer;
+        }
+        public void SetAnzahlZimmer(int anzahlzimmerVAR)
+        {
+            anzahlZimmer=anzahlzimmerVAR;
+        }
+        public int GetBaujahr()
+        {
+            return baujahr;
+        }
+        public void SetBaujahr(int baujahrVAR)
+        {
+            baujahr = baujahrVAR;
+        }
+
+        public double GetKaufpreis()
+        {
+            return kaufpreis;
+        }
+        public void SetKaufpreis(double KaufpreisVAR)
+        {
+            kaufpreis = KaufpreisVAR;
+        }
+        public bool GetVerkauft()
+        {
+            return verkauft;
+        }
+        public void SetVerkauft(bool VerkauftVAR)
+        {
+            verkauft = VerkauftVAR;
         }
 
         public override string ToString()
