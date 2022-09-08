@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung53_Patientenkartei\Uebung53_Patientenkartei\bin\Debug\Uebung53_Patientenkartei.exe.config
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung53_Patientenkartei\Uebung53_Patientenkartei\bin\Debug\Uebung53_Patientenkartei.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung53_Patientenkartei\Uebung53_Patientenkartei\bin\Debug\Uebung53_Patientenkartei.pdb
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung53_Patientenkartei\Uebung53_Patientenkartei\obj\Debug\Uebung53_Patientenkartei.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung53_Patientenkartei\Uebung53_Patientenkartei\obj\Debug\Uebung53_Patientenkartei.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung53_Patientenkartei\Uebung53_Patientenkartei\obj\Debug\Uebung53_Patientenkartei.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung53_Patientenkartei\Uebung53_Patientenkartei\obj\Debug\Uebung53_Patientenkartei.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung53_Patientenkartei\Uebung53_Patientenkartei\obj\Debug\Uebung53_Patientenkartei.pdb
