@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 /// Autor:          Florian Fabian
 /// Datum:          07.09.2022
 /// Funktion:       Kunde wird angelegt mit Datensatz Adresse (Klasse Kunde, Klasse Adresse)
+/// Edit:           12.09.2022: add + remove Lieferadresse mit List<Adresse>
 /// 
 ///
 
