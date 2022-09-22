@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung59_Koenigreich\Uebung59_Koenigreich\bin\Debug\Uebung59_Koenigreich.exe.config
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung59_Koenigreich\Uebung59_Koenigreich\bin\Debug\Uebung59_Koenigreich.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung59_Koenigreich\Uebung59_Koenigreich\bin\Debug\Uebung59_Koenigreich.pdb
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung59_Koenigreich\Uebung59_Koenigreich\obj\Debug\Uebung59_Koenigreich.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung59_Koenigreich\Uebung59_Koenigreich\obj\Debug\Uebung59_Koenigreich.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung59_Koenigreich\Uebung59_Koenigreich\obj\Debug\Uebung59_Koenigreich.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung59_Koenigreich\Uebung59_Koenigreich\obj\Debug\Uebung59_Koenigreich.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung59_Koenigreich\Uebung59_Koenigreich\obj\Debug\Uebung59_Koenigreich.pdb
