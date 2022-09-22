@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung56_Hausverwaltung\Uebung56_Hausverwaltung\bin\Debug\Uebung56_Hausverwaltung.exe.config
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung56_Hausverwaltung\Uebung56_Hausverwaltung\bin\Debug\Uebung56_Hausverwaltung.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung56_Hausverwaltung\Uebung56_Hausverwaltung\bin\Debug\Uebung56_Hausverwaltung.pdb
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung56_Hausverwaltung\Uebung56_Hausverwaltung\obj\Debug\Uebung56_Hausverwaltung.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung56_Hausverwaltung\Uebung56_Hausverwaltung\obj\Debug\Uebung56_Hausverwaltung.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung56_Hausverwaltung\Uebung56_Hausverwaltung\obj\Debug\Uebung56_Hausverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung56_Hausverwaltung\Uebung56_Hausverwaltung\obj\Debug\Uebung56_Hausverwaltung.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung56_Hausverwaltung\Uebung56_Hausverwaltung\obj\Debug\Uebung56_Hausverwaltung.pdb

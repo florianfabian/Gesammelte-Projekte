@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung58_Angestellte\Uebung58_Angestellte\bin\Debug\Uebung58_Angestellte.exe.config
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung58_Angestellte\Uebung58_Angestellte\bin\Debug\Uebung58_Angestellte.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung58_Angestellte\Uebung58_Angestellte\bin\Debug\Uebung58_Angestellte.pdb
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung58_Angestellte\Uebung58_Angestellte\obj\Debug\Uebung58_Angestellte.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung58_Angestellte\Uebung58_Angestellte\obj\Debug\Uebung58_Angestellte.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung58_Angestellte\Uebung58_Angestellte\obj\Debug\Uebung58_Angestellte.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung58_Angestellte\Uebung58_Angestellte\obj\Debug\Uebung58_Angestellte.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung58_Angestellte\Uebung58_Angestellte\obj\Debug\Uebung58_Angestellte.pdb
