@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 ///
 ///Autor:       Florian Fabian
 ///Datum:       13.10.2022
-///Funktion:    Highscorewerte aus Datei auslesen
+///Funktion:    Highscorewerte aus Datei auslesen, Methoden zum Manipulieren implementieren
 ///
 ///
 
@@ -28,10 +28,20 @@ namespace Uebung62_Highscoreliste
             Console.WriteLine();
             Console.WriteLine(string.Join("\n", highscorelist));
 
-
+            Console.ReadLine();
 
             Console.WriteLine();
             Console.WriteLine(AverageScore(highscorelist));
+
+            Console.ReadLine();
+
+            Highscore neu = new Highscore("Xaver", 7241, DateTime.Now);
+            HighScoreFileManager.AppendNewHighscore(neu);
+
+            Console.WriteLine("Max Score Otto");
+            Console.WriteLine(ScoreValueForPlayer(highscorelist, "Otto"));
+
+            Console.ReadLine();
 
         }
 
@@ -62,6 +72,26 @@ namespace Uebung62_Highscoreliste
             }
             avgscore = avgscore / list.Count;
             return avgscore;
+        }
+
+        public static Highscore HighScoreValueForPlayer(List<Highscore> list, string player)
+        {
+            Highscore maxScore = null;
+
+            for (int i = 0; i < list.Count; i++)
+            {
+                if(list[i].Player == player)
+                {
+                    if(maxScore == null || list[i].Score > maxScore.Score)
+                    {
+                        maxScore = list[i];
+                    }
+
+                }
+            }
+
+
+            return maxScore;
         }
     }
 }

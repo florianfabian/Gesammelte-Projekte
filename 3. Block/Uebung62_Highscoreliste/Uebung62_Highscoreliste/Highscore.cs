@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 ///
 ///Autor:       Florian Fabian
 ///Datum:       13.10.2022
-///Funktion:    Highscorewerte aus Datei auslesen
+///Funktion:    Highscorewerte aus Datei auslesen, Methoden zum Manipulieren implementieren
 ///
 ///
 

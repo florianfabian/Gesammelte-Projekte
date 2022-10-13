@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 ///
 ///Autor:       Florian Fabian
 ///Datum:       13.10.2022
-///Funktion:    Highscorewerte aus Datei auslesen
+///Funktion:    Highscorewerte aus Datei auslesen, Methoden zum Manipulieren implementieren
 ///
 ///
 
@@ -32,6 +32,12 @@ namespace Uebung62_Highscoreliste
                 highscore.Add(new Highscore(player, score, timestamp));
             }
             return highscore;
+        }
+
+        internal static void AppendNewHighscore(Highscore neu)
+        {
+            string line = $"{neu.Player};{neu.Score};{neu.Timestamp}\n";
+            File.AppendAllText(@"C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\Daten\highscore.csv", line);
         }
     }
 }
