@@ -1,0 +1,8 @@
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung60_Verleihservice\Uebung60_Verleihservice\bin\Debug\Uebung60_Verleihservice.exe.config
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung60_Verleihservice\Uebung60_Verleihservice\bin\Debug\Uebung60_Verleihservice.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung60_Verleihservice\Uebung60_Verleihservice\bin\Debug\Uebung60_Verleihservice.pdb
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung60_Verleihservice\Uebung60_Verleihservice\obj\Debug\Uebung60_Verleihservice.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung60_Verleihservice\Uebung60_Verleihservice\obj\Debug\Uebung60_Verleihservice.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung60_Verleihservice\Uebung60_Verleihservice\obj\Debug\Uebung60_Verleihservice.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung60_Verleihservice\Uebung60_Verleihservice\obj\Debug\Uebung60_Verleihservice.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung60_Verleihservice\Uebung60_Verleihservice\obj\Debug\Uebung60_Verleihservice.pdb

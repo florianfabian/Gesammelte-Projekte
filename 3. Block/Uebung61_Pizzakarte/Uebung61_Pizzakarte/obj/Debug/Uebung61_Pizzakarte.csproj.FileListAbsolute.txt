@@ -1,0 +1,9 @@
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung61_Pizzakarte\Uebung61_Pizzakarte\obj\Debug\Uebung61_Pizzakarte.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung61_Pizzakarte\Uebung61_Pizzakarte\obj\Debug\Uebung61_Pizzakarte.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung61_Pizzakarte\Uebung61_Pizzakarte\obj\Debug\Uebung61_Pizzakarte.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung61_Pizzakarte\Uebung61_Pizzakarte\bin\Debug\Uebung61_Pizzakarte.exe.config
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung61_Pizzakarte\Uebung61_Pizzakarte\bin\Debug\Uebung61_Pizzakarte.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung61_Pizzakarte\Uebung61_Pizzakarte\bin\Debug\Uebung61_Pizzakarte.pdb
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung61_Pizzakarte\Uebung61_Pizzakarte\obj\Debug\Uebung61_Pizzakarte.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung61_Pizzakarte\Uebung61_Pizzakarte\obj\Debug\Uebung61_Pizzakarte.pdb
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung61_Pizzakarte\Uebung61_Pizzakarte\bin\Debug\Pizzakarte\pizzakarte.csv

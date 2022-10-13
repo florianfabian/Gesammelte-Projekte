@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uebung61_Pizzakarte", "Uebung61_Pizzakarte\Uebung61_Pizzakarte.csproj", "{C1C12058-70AB-4287-A322-E72A16EDB483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C12058-70AB-4287-A322-E72A16EDB483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C12058-70AB-4287-A322-E72A16EDB483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C12058-70AB-4287-A322-E72A16EDB483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C12058-70AB-4287-A322-E72A16EDB483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926C88B3-B0D9-4759-B9DD-43CB07942CF8}
+	EndGlobalSection
+EndGlobal

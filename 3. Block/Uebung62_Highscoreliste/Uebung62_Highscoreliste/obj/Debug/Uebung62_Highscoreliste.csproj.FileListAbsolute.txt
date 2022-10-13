@@ -1,0 +1,9 @@
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\bin\Debug\Uebung62_Highscoreliste.exe.config
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\bin\Debug\Uebung62_Highscoreliste.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\bin\Debug\Uebung62_Highscoreliste.pdb
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\obj\Debug\Uebung62_Highscoreliste.csproj.AssemblyReference.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\obj\Debug\Uebung62_Highscoreliste.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\obj\Debug\Uebung62_Highscoreliste.csproj.CoreCompileInputs.cache
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\obj\Debug\Uebung62_Highscoreliste.exe
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\obj\Debug\Uebung62_Highscoreliste.pdb
+C:\Users\fabflo\Desktop\Gesammelte-Projekte\3. Block\Uebung62_Highscoreliste\Uebung62_Highscoreliste\bin\Debug\Daten\highscore.csv
