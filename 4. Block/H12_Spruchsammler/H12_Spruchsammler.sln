@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H12_Spruchsammler", "H12_Spruchsammler\H12_Spruchsammler.csproj", "{00A121F0-82E1-4FE2-919E-0496D9EF5403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A121F0-82E1-4FE2-919E-0496D9EF5403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A121F0-82E1-4FE2-919E-0496D9EF5403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A121F0-82E1-4FE2-919E-0496D9EF5403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A121F0-82E1-4FE2-919E-0496D9EF5403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A82864-0596-4727-AD17-A5EE778AC725}
+	EndGlobalSection
+EndGlobal
