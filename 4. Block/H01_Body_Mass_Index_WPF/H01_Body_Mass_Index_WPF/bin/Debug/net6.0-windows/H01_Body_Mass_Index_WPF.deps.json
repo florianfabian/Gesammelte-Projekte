@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "H01_Body_Mass_Index_WPF/1.0.0": {
+        "runtime": {
+          "H01_Body_Mass_Index_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H01_Body_Mass_Index_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
