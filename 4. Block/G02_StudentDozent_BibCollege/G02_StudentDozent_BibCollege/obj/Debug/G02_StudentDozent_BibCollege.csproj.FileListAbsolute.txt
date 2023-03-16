@@ -1,0 +1,8 @@
+C:\Desktop_Dump\Gesammelte-Projekte\4. Block\G02_StudentDozent_BibCollege\G02_StudentDozent_BibCollege\bin\Debug\G02_StudentDozent_BibCollege.exe.config
+C:\Desktop_Dump\Gesammelte-Projekte\4. Block\G02_StudentDozent_BibCollege\G02_StudentDozent_BibCollege\bin\Debug\G02_StudentDozent_BibCollege.exe
+C:\Desktop_Dump\Gesammelte-Projekte\4. Block\G02_StudentDozent_BibCollege\G02_StudentDozent_BibCollege\bin\Debug\G02_StudentDozent_BibCollege.pdb
+C:\Desktop_Dump\Gesammelte-Projekte\4. Block\G02_StudentDozent_BibCollege\G02_StudentDozent_BibCollege\obj\Debug\G02_StudentDozent_BibCollege.csproj.AssemblyReference.cache
+C:\Desktop_Dump\Gesammelte-Projekte\4. Block\G02_StudentDozent_BibCollege\G02_StudentDozent_BibCollege\obj\Debug\G02_StudentDozent_BibCollege.csproj.SuggestedBindingRedirects.cache
+C:\Desktop_Dump\Gesammelte-Projekte\4. Block\G02_StudentDozent_BibCollege\G02_StudentDozent_BibCollege\obj\Debug\G02_StudentDozent_BibCollege.csproj.CoreCompileInputs.cache
+C:\Desktop_Dump\Gesammelte-Projekte\4. Block\G02_StudentDozent_BibCollege\G02_StudentDozent_BibCollege\obj\Debug\G02_StudentDozent_BibCollege.exe
+C:\Desktop_Dump\Gesammelte-Projekte\4. Block\G02_StudentDozent_BibCollege\G02_StudentDozent_BibCollege\obj\Debug\G02_StudentDozent_BibCollege.pdb

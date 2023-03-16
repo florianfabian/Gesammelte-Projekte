@@ -7,14 +7,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <ListBox Name="lbxSpruch" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="34,45,174,131" SelectionChanged="lbxSpruch_SelectionChanged"/>
-        <TextBox Name="tbxSpruchtext" HorizontalAlignment="Left" Margin="34,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="592" TextChanged="tbxSpruchtext_TextChanged"/>
-        <TextBox Name="tbxAutor" HorizontalAlignment="Left" Margin="34,391,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="592" TextChanged="tbxAutor_TextChanged"/>
-        <TextBlock HorizontalAlignment="Left" Margin="34,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"><Run Text="Spruch"/><Run Language="de-de" Text="text:"/></TextBlock>
-        <TextBlock HorizontalAlignment="Left" Margin="34,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"><Run Language="de-de" Text="Autor:"/></TextBlock>
-        <TextBlock HorizontalAlignment="Left" Margin="34,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80"><Run Text="Spr"/><Run Language="de-de" Text="ü"/><Run Text="ch"/><Run Language="de-de" Text="e"/><Run Text=":"/></TextBlock>
-        <Button Name="bttnSpeichern" Content="speichern" HorizontalAlignment="Left" Margin="651,390,0,0" VerticalAlignment="Top" Width="119" Click="bttnSpeichern_Click"/>
-        <Button Name="bttnlöschen" Content="löschen" HorizontalAlignment="Left" Margin="651,283,0,0" VerticalAlignment="Top" Width="119" Click="bttnlöschen_Click"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="24*"/>
+            <ColumnDefinition Width="455*"/>
+            <ColumnDefinition Width="294*"/>
+        </Grid.ColumnDefinitions>
+        <ListBox Name="lbxSpruch" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="7,45,174,131" SelectionChanged="lbxSpruch_SelectionChanged" Grid.ColumnSpan="3" Grid.Column="1"/>
+        <TextBox Name="tbxSpruchtext" HorizontalAlignment="Left" Margin="7,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="592" TextChanged="tbxSpruchtext_TextChanged" Grid.ColumnSpan="3" Grid.Column="1"/>
+        <TextBox Name="tbxAutor" HorizontalAlignment="Left" Margin="7,391,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="592" TextChanged="tbxAutor_TextChanged" Grid.ColumnSpan="3" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="7,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" Grid.ColumnSpan="2" Grid.Column="1"><Run Text="Spruch"/><Run Language="de-de" Text="text:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="7,370,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" Grid.ColumnSpan="2" Grid.Column="1"><Run Language="de-de" Text="Autor:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="7,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" Grid.ColumnSpan="2" Grid.Column="1"><Run Text="Spr"/><Run Language="de-de" Text="ü"/><Run Text="ch"/><Run Language="de-de" Text="e"/><Run Text=":"/></TextBlock>
+        <Button Name="bttnSpeichern" Content="speichern" HorizontalAlignment="Left" Margin="145,390,0,0" VerticalAlignment="Top" Width="119" Click="bttnSpeichern_Click" Grid.Column="3"/>
+        <Button Name="bttnlöschen" Content="löschen" HorizontalAlignment="Left" Margin="145,283,0,0" VerticalAlignment="Top" Width="119" Click="bttnlöschen_Click" Grid.Column="3"/>
+        <Button Name="Hilfe" Content="Hilfe" HorizontalAlignment="Left" Margin="164,70,0,0" VerticalAlignment="Top" Height="55" Width="80" Click="Hilfe_Click" Grid.Column="3"/>
 
     </Grid>
 </Window>
