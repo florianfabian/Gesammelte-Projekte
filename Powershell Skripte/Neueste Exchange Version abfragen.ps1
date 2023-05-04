@@ -1,14 +1,14 @@
 ﻿param(
-    $ExchangeServer = "EXC2"
+    $ExchangeServer = "EXCH2"
 )
 
 function Get-LatestExchangeVersion {
     $url = "https://docs.microsoft.com/de-de/exchange/new-features/build-numbers-and-release-dates?view=exchserver-2019"
     $pageContent = Invoke-WebRequest -Uri $url -UseBasicParsing
-    $pattern = "15\.\d+\.\d+\.\d+"
-    $matches = [regex]::Matches($pageContent, $pattern)
+    $pattern = 'Exchange Server 2016[^<]*<[\s\S]*?<td style="text-align: center;">([\d.]+)</td>'
+    $matches = [regex]::Matches($pageContent.Content, $pattern)
     $versions = $matches | ForEach-Object { $_.Groups[1].Value }
-    return $versions | Sort-Object -Descending | Select-Object -First 1
+    return $versions | Sort-Object {[Version]$_} -Descending | Select-Object -First 1
 }
 
 $currentVersionResult = Invoke-Command -ComputerName $ExchangeServer -ScriptBlock {
@@ -20,8 +20,8 @@ if ($currentVersionResult -ne $null) {
     $currentVersion = $currentVersionResult.Version.ToString()
 }
 
-
 $latestVersion = Get-LatestExchangeVersion
+
 if (![string]::IsNullOrEmpty($currentVersion) -and ![string]::IsNullOrEmpty($latestVersion)) {
     try {
         $currentVersionObj = [Version]$currentVersion
@@ -38,4 +38,3 @@ if (![string]::IsNullOrEmpty($currentVersion) -and ![string]::IsNullOrEmpty($lat
 } else {
     Write-Host "Eine oder beide Versionszeichenfolgen sind leer: Aktuelle Version: $currentVersion, Neueste Version: $latestVersion"
 }
-
