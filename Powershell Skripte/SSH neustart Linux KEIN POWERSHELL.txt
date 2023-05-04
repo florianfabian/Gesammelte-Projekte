@@ -1,0 +1,6 @@
+#!/bin/bash
+
+REMOTE_HOST="TARGET_COMPUTER_NAME_OR_IP"
+REMOTE_USER="REMOTE_USER"
+
+ssh -t -t -o StrictHostKeyChecking=no -o BatchMode=yes "$REMOTE_USER@$REMOTE_HOST" "sudo systemctl reboot"
