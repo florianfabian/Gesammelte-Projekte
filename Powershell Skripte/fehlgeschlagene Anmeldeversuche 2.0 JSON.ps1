@@ -11,10 +11,12 @@ $events = Get-WinEvent -FilterHashtable $filter
 # Erstellen eines Hash-Objekts für die JSON-Ausgabe
 $output = @{
     prtg = @{
-        result = @{
-            channel = "Failed Logins"
-            value = $events.Count
-        }
+        result = @(
+            @{
+                channel = "Failed Logins"
+                value = $events.Count
+            }
+        )
     }
 }
 
