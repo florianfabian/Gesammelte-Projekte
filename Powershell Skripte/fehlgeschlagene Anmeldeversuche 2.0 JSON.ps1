@@ -13,8 +13,9 @@ $output = @{
     prtg = @{
         result = @(
             @{
-                channel = "Failed Logins"
-                value = $events.Count
+                Channel = "Failed Logins"
+                Value = $events.Count
+                Unit = "Count"
             }
         )
     }
