@@ -15,6 +15,7 @@ $jsonResultsNode = @()
 
 $resultHashTableItem = @{
     "channel"   = "Failed Logins"
+    "channelid" = 0
     "unit"      = "Count"
     "mode"      = "Absolute"
     "showChart" = "1"
