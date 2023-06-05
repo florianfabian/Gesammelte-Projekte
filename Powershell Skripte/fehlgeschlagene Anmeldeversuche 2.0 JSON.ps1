@@ -9,17 +9,28 @@ $filter = @{
 $events = Get-WinEvent -FilterHashtable $filter
 
 # Erstellen eines Hash-Objekts für die JSON-Ausgabe
-$output = @{
-    prtg = @{
-        result = @(
-            @{
-                Channel = "Failed Logins"
-                Value = $events.Count
-                Unit = "Count"
-            }
-        )
-    }
-}
+$jsonRoot = @{}
+$jsonPrtgNode = @{}
+$jsonResultsNode = @()
 
-# Konvertieren des Ausgabe-Objekts in JSON
-$output | ConvertTo-Json
+$resultHashTableItem = @{
+    "channel"   = "Failed Logins"
+    "unit"      = "Count"
+    "mode"      = "Absolute"
+    "showChart" = "1"
+    "showTable" = "0"
+    "warning"   = "0"
+    "float"     = "0"
+    "value"     = $events.Count
+}
+$jsonResultsNode += $resultHashTableItem
+
+$statusHashTableItem = @{
+    "text"   = "Script completed successfully"
+}
+$jsonResultsNode += $statusHashTableItem
+
+$jsonPrtgNode.Add("result",$jsonResultsNode)
+$jsonRoot.Add("prtg",$jsonPrtgNode)
+
+$jsonRoot | ConvertTo-Json -Depth 3
