@@ -1,7 +1,7 @@
 ﻿# Filter-Definition: Event-ID 4625 steht für fehlgeschlagene Anmeldeversuche
 $filter = @{
     LogName = 'Security'
-    Id = 4625
+    Id = 675
     StartTime = (Get-Date).AddHours(-1)
 }
 
