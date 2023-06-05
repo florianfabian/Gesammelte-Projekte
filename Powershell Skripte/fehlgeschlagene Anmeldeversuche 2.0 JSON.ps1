@@ -15,7 +15,6 @@ $jsonResultsNode = @()
 
 $resultHashTableItem = @{
     "channel"   = "Failed Logins"
-    "channelid" = 0
     "unit"      = "Count"
     "mode"      = "Absolute"
     "showChart" = "1"
@@ -26,12 +25,9 @@ $resultHashTableItem = @{
 }
 $jsonResultsNode += $resultHashTableItem
 
-$statusHashTableItem = @{
-    "text"   = "Script completed successfully"
-}
-$jsonResultsNode += $statusHashTableItem
-
 $jsonPrtgNode.Add("result",$jsonResultsNode)
+$jsonPrtgNode.Add("text", "Script completed successfully")
+
 $jsonRoot.Add("prtg",$jsonPrtgNode)
 
 $jsonRoot | ConvertTo-Json -Depth 3
