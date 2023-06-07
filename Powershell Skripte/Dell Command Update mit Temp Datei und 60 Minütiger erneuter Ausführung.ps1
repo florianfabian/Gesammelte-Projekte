@@ -15,6 +15,9 @@ if (Test-Path $dellCommandUpdatePath) {
         # Erstelle die Flag-Datei
         New-Item -ItemType File -Path $flagFilePath -Force
     }
+    
+    # Warte 15 Minuten, um die Updates zu ziehen
+    Start-Sleep -Seconds 900
 
     # Nachricht für die MessageBox erstellen
     $message = @"
