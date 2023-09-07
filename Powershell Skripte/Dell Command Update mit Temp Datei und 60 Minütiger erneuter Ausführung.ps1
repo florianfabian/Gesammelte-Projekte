@@ -17,7 +17,7 @@ if (Test-Path $dellCommandUpdatePath) {
     }
     
     # Warte 15 Minuten, um die Updates zu ziehen
-    Start-Sleep -Seconds 900
+    # Start-Sleep -Seconds 900
 
     # Nachricht für die MessageBox erstellen
     $message = @"

@@ -31,30 +31,34 @@ if (![string]::IsNullOrEmpty($currentVersion) -and ![string]::IsNullOrEmpty($lat
             Write-Host "<prtg>"
             Write-Host "<result>"
             Write-Host "<channel>Exchange Update</channel>"
-            Write-Host "<value>Es ist ein Update verfügbar. Aktuelle Version: $currentVersion, Neueste Version: $latestVersion </value>"
+            Write-Host "<value>1</value>"
             Write-Host "</result>"
+            Write-Host "<text>Es ist ein Update verfügbar. Aktuelle Version: $currentVersion, Neueste Version: $latestVersion </text>"
             Write-Host "</prtg>"
         } else {
             Write-Host "<prtg>"
             Write-Host "<result>"
             Write-Host "<channel>Exchange Update</channel>"
-            Write-Host "<value>Die aktuelle Version ist bereits die neueste: $currentVersion </value>"
+            Write-Host "<value>2</value>"
             Write-Host "</result>"
+            Write-Host "<text>Die aktuelle Version ist bereits die neueste: $currentVersion </text>"
             Write-Host "</prtg>"
         }
     } catch {
         Write-Host "<prtg>"
         Write-Host "<result>"
         Write-Host "<channel>Exchange Update</channel>"
-        Write-Host "<value>Fehler beim Vergleichen der Versionen. Überprüfen Sie die Versionszeichenfolgen: Aktuelle Version: $currentVersion, Neueste Version: $latestVersion </value>"
+        Write-Host "<value>3</value>"
         Write-Host "</result>"
+        Write-Host "<text>Fehler beim Vergleichen der Versionen. Überprüfen Sie die Versionszeichenfolgen: Aktuelle Version: $currentVersion, Neueste Version: $latestVersion </text>"
         Write-Host "</prtg>"
     }
 } else {
         Write-Host "<prtg>"
         Write-Host "<result>"
         Write-Host "<channel>Exchange Update</channel>"
-        Write-Host "<value>Eine oder beide Versionszeichenfolgen sind leer: Aktuelle Version: $currentVersion, Neueste Version: $latestVersion </value>"
+        Write-Host "<value>4</value>"
         Write-Host "</result>"
+        Write-Host "<text>Eine oder beide Versionszeichenfolgen sind leer: Aktuelle Version: $currentVersion, Neueste Version: $latestVersion </text>"
         Write-Host "</prtg>"
 }
